@@ -1,0 +1,24 @@
+    Help
+
+    Basic rules
+
+    The game is called Rock, Paper, Scissors, Lizard, Spock.
+    There are five possible gestures (as in title).
+
+    Scissors cut Paper, Paper covers Rock.
+    Rock crushes Lizard, Lizard poisons Spock. Spock smashes Scissors,
+    Scissors decapitates Lizard. Lizard eats Paper, Paper disproves Spock,
+    Spock vaporizes Rock, and as it always has, Rock crushes Scissors.
+    Visual diagram can be found here
+    (https://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg)
+
+
+    ***
+    Commands
+
+    help      Show this help
+    start/<N> Start a game with n rounds to win. N should be a valid integer
+    action/<rock|paper|scissors|lizard|spock>
+              Show one of gestures
+    stat      Show results of previous games
+    exit      End this program and exit
